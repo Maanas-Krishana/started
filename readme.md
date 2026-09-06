@@ -1,10 +1,12 @@
 # 📈 VirtualStock - Paper Trading Platform
 
+
 A modern virtual paper trading web application with zero financial risk, live simulated market fluctuations, interactive portfolio & P&L tracking, and an AI market analyst copilot.
 
 ---
 
 ## ✨ Features
+
 
 - **Virtual Trading Engine**: Practice trading with ₹1,00,000 in simulated funds. Real-time balance updates, buy/sell orders, and stop-loss support.
 - **Dynamic Watchlist**: Real-time ticker and market cards for top stocks (e.g., RELIANCE, TCS, HDFCBANK, INFY, AAPL, NVDA, TSLA).
@@ -15,6 +17,7 @@ A modern virtual paper trading web application with zero financial risk, live si
 ---
 
 ## 📁 Project Structure
+
 
 ```
 ├── app.py              # Flask backend server & REST API endpoints
@@ -31,6 +34,7 @@ A modern virtual paper trading web application with zero financial risk, live si
 ---
 
 ## 🚀 Quick Start
+
 
 ### 1. Prerequisites
 - Python 3.8+
@@ -55,6 +59,7 @@ http://localhost:8000
 ---
 
 ## 🛠️ Tech Stack
+
 
 - **Frontend**: HTML5, Vanilla CSS3 (Glassmorphism), JavaScript (ES6+), Chart.js, FontAwesome
 - **Backend**: Python, Flask, Flask-SQLAlchemy, Flask-Login, SQLite
